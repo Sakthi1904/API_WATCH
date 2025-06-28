@@ -313,23 +313,6 @@ SELECT * FROM monitoring_results ORDER BY timestamp DESC LIMIT 10;
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🆘 Support
-
-- **Issues**: [GitHub Issues](https://github.com/yourusername/apiwatch/issues)
-- **Documentation**: [Wiki](https://github.com/yourusername/apiwatch/wiki)
-- **Email**: support@apiwatch.com
-
-## 🙏 Acknowledgments
-
-- Flask community for the excellent web framework
-- Chart.js for beautiful data visualizations
-- Bootstrap team for the responsive UI framework
-- Docker team for containerization tools
-
----
 
 **Made with ❤️ for reliable API monitoring**
